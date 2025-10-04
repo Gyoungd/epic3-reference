@@ -76,13 +76,6 @@
       </div>
     </main>
 
-    <footer class="bg-white border-t border-gray-200 mt-16">
-      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <p class="text-center text-gray-600">
-          MelMoveNow - Helping you stay active in Melbourne
-        </p>
-      </div>
-    </footer>
 
   </div>
 </template>
